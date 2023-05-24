@@ -1,0 +1,3 @@
+2023-05-23T19:01:48+00:00 INFO Is weekly report enabled: enable
+2023-05-23T19:01:48+00:00 INFO Weekly report action scheduled. Action: cartflows_send_report_summary_email 
+2023-05-23T19:01:48+00:00 INFO Weekly report action scheduled. Action: cartflows_send_report_summary_email 
